@@ -1,0 +1,90 @@
+ 
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/futuristic-binary-code-matrix-texture-backdrop-communication_1017-45495.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707264000&semt=ais");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+section{
+    
+    background-image: url("https://img.freepik.com/free-vector/futuristic-binary-code-matrix-texture-backdrop-communication_1017-45495.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707264000&semt=ais");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+   
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+header {
+    background-image: url("https://img.freepik.com/free-vector/futuristic-binary-code-matrix-texture-backdrop-communication_1017-45495.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707264000&semt=ais");
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding: 2px;
+    background-repeat: no-repeat;
+    width: 200;
+    height: 100;
+    background-size: cover;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.post {
+    border: 5px solid #0a0909;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+p{
+    color:rgb(225, 225, 236);
+    
+}
+
+input{
+    background-color: rgb(252, 246, 246);
+    padding: 10px;
+    width: 250px;
+    border-radius: 9px;
+}
+
+form{
+    border: #0f8bb4;
+
+}
+    
+
+.btn {
+    padding:  10px;
+    background-color: #04080c;
+    color: rgb(231, 219, 219);
+    border-radius: 20px;
+    width: 250px;
+    
+}
+.btn img {
+    width: 40px; 
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 9px; 
+}
+h2{
+    color: #eff5f7;
+}
+

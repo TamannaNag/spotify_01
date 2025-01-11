@@ -1,0 +1,80 @@
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/10/29/01/39/abstract-1779622_960_720.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+section{
+    background-image: url("https://st4.depositphotos.com/15865422/25860/i/450/depositphotos_258600448-stock-photo-flowers-composition-spring-background-with.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+   
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+header {
+    background-image: url("https://st4.depositphotos.com/15865422/25860/i/450/depositphotos_258600448-stock-photo-flowers-composition-spring-background-with.jpg");
+    color: black;
+    text-align: center;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.post {
+    border: 5px rgb(0, 0, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+p{
+    color:black;
+}
+
+input{
+    background-color: white;
+    padding: 10px;
+    width: 300px;
+    border-radius: 9px;
+}
+
+form{
+    border: #59b811;
+}
+    
+
+.btn {
+    padding:  10px;
+    background-color: #04080c;
+    color: white;
+    border-radius: 20px;
+    width: 250px;
+    
+}
+.btn img {
+    width: 40px; 
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 9px; 
+}
